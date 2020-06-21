@@ -1,0 +1,3 @@
+start:
+JMP end;
+end:
