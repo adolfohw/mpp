@@ -14,5 +14,4 @@ description = "An assembler for M++ (2017 edition)"
 
 [dependencies]
 enum-utils = "0.1"
-logos = "0.11"
 thiserror = "1.0"
